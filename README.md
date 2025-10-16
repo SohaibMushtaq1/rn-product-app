@@ -2,6 +2,11 @@
 
 This is a small React Native (Expo) application that demonstrates a solid project structure and best practices for building a scalable mobile app. It includes a product list, product detail screen, and local state management for user favorites.
 
+## Repository
+
+The source code for this project is available on GitHub:
+[https://github.com/SohaibMushtaq1/rn-product-app](https://github.com/SohaibMushtaq1/rn-product-app)
+
 ## Getting Started
 
 To run the project locally, follow these steps:
